@@ -1,1 +1,2 @@
 # EDAPinguinos
+[notebook ](https://deepnote.com/workspace/yhomira-alexandra-yupayccana-lopa-42261ffe-4a7c-4818-877c-e003e5e310df/project/Yhomira-Alexandra-Yupayccana-Lopas-Untitled-project-f8db16cf-9368-486a-9797-188e5f936d0e/notebook/EDAPinguinos-775814ee6f544b9f88a8164db56f54fe)
